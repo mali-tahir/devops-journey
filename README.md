@@ -1,1 +1,1 @@
-# DevOps Journey
+# DecOps Journeyy
